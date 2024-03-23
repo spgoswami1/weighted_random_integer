@@ -1,6 +1,6 @@
 ### Anaconda Installation, Skip if already installed
-`curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh`
-`sh Miniconda3-latest-MacOSX-arm64.sh`
+```curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
+sh Miniconda3-latest-MacOSX-arm64.sh```
 
 ### Install pytorch through Conda
 `conda install pytorch torchvision -c pytorch`
