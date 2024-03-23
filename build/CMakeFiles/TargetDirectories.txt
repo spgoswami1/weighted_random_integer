@@ -1,0 +1,3 @@
+/Users/surendrapurigoswami/workspace/sanas/build/CMakeFiles/sanas.dir
+/Users/surendrapurigoswami/workspace/sanas/build/CMakeFiles/edit_cache.dir
+/Users/surendrapurigoswami/workspace/sanas/build/CMakeFiles/rebuild_cache.dir
